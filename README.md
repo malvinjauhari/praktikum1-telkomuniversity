@@ -48,5 +48,7 @@ python pertemuan-1/praktikum/latihan2.py
 
 ## Author
 
-**Alvin Jauhari** — NIM 19823
+**M. Alvin Jauhari**
+NIM: 108052630012
 Telkom University
+GitHub: [@malvinjauhari](https://github.com/malvinjauhari)
